@@ -1,0 +1,6 @@
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\LibForLab4\bin\Debug\LibForLab4.dll
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\LibForLab4\bin\Debug\LibForLab4.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\LibForLab4\obj\Debug\LibForLab4.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\LibForLab4\obj\Debug\LibForLab4.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\LibForLab4\obj\Debug\LibForLab4.dll
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\LibForLab4\obj\Debug\LibForLab4.pdb

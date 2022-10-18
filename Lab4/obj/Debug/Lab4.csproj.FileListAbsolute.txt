@@ -1,0 +1,11 @@
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\bin\Debug\Lab4.exe.config
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\bin\Debug\Lab4.exe
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\bin\Debug\Lab4.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\bin\Debug\LibForLab4.dll
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\bin\Debug\LibForLab4.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\obj\Debug\Lab4.exe
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleApp4\Lab4\obj\Debug\Lab4.pdb
