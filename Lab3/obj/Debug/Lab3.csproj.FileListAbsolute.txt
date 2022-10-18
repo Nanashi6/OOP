@@ -1,0 +1,11 @@
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\bin\Debug\Lab3.exe.config
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\bin\Debug\Lab3.exe
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\bin\Debug\Lab3.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\obj\Debug\Lab3.exe
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\obj\Debug\Lab3.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\bin\Debug\LibForLab3.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\bin\Debug\LibForLab3.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
