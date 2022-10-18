@@ -1,0 +1,12 @@
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleMenu\LibForLab1\bin\Debug\LibForLab1.dll
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleMenu\LibForLab1\bin\Debug\LibForLab1.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleMenu\LibForLab1\obj\Debug\LibForLab1.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleMenu\LibForLab1\obj\Debug\LibForLab1.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleMenu\LibForLab1\obj\Debug\LibForLab1.dll
+E:\2 Курс\ООПиП\Лабораторная №1\ConsoleMenu\LibForLab1\obj\Debug\LibForLab1.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab1\LibForLab1\bin\Debug\LibForLab1.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab1\LibForLab1\bin\Debug\LibForLab1.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab1\LibForLab1\obj\Debug\LibForLab1.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab1\LibForLab1\obj\Debug\LibForLab1.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab1\LibForLab1\obj\Debug\LibForLab1.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab1\LibForLab1\obj\Debug\LibForLab1.pdb
