@@ -30,12 +30,6 @@ namespace LibForLab3
             amountOfString = x;
             amountOfCollumn = y;
             a = new double[x, y];
-            /*
-            for (int i = 0; i < x; i++)
-            {
-                a[i] = new double[y];
-            }
-            */
         }
         public Matrix(double[,] x)
         {
@@ -169,6 +163,24 @@ namespace LibForLab3
             }
 
             return false;
+        }
+        //Перегрузка метода Object.Equals
+        public override bool Equals(object obj)
+        {
+            Matrix b = (Matrix)obj;
+
+            if (a.GetLength(0) != b.a.GetLength(0)) return false;
+            if (a.GetLength(1) != b.a.GetLength(1)) return false;
+
+            for (int i = 0; i < a.GetLength(0); i++)
+            {
+                for (int j = 0; j < b.a.GetLength(1); j++)
+                {
+                    if (a[i, j] != b.a[i, j]) return false;
+                }
+            }
+
+            return true;
         }
     }
 }
