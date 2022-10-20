@@ -44,6 +44,7 @@ namespace LibForLab3
         public void SetMatrix(double[,] x)
         {
             a = x;
+
         }
         public double[,] GetMatrix()
         {
@@ -167,20 +168,24 @@ namespace LibForLab3
         //Перегрузка метода Object.Equals
         public override bool Equals(object obj)
         {
-            Matrix b = (Matrix)obj;
-
-            if (a.GetLength(0) != b.a.GetLength(0)) return false;
-            if (a.GetLength(1) != b.a.GetLength(1)) return false;
-
-            for (int i = 0; i < a.GetLength(0); i++)
+            if (obj.GetType() == typeof(Matrix)) throw new Exception("Получаемый объект не может быть приведён к типу Matrix");
             {
-                for (int j = 0; j < b.a.GetLength(1); j++)
+                Matrix b = (Matrix)obj;
+
+                if (a.GetLength(0) != b.a.GetLength(0)) return false;
+                if (a.GetLength(1) != b.a.GetLength(1)) return false;
+
+                for (int i = 0; i < a.GetLength(0); i++)
                 {
-                    if (a[i, j] != b.a[i, j]) return false;
+                    for (int j = 0; j < b.a.GetLength(1); j++)
+                    {
+                        if (a[i, j] != b.a[i, j]) return false;
+                    }
                 }
+                return true;
             }
 
-            return true;
+            return false;
         }
     }
 }
