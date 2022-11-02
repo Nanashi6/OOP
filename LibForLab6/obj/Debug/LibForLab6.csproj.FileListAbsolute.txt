@@ -1,0 +1,6 @@
+E:\Практика\Лабы\Lab6\LibForLab6\bin\Debug\LibForLab6.dll
+E:\Практика\Лабы\Lab6\LibForLab6\bin\Debug\LibForLab6.pdb
+E:\Практика\Лабы\Lab6\LibForLab6\obj\Debug\LibForLab6.csproj.AssemblyReference.cache
+E:\Практика\Лабы\Lab6\LibForLab6\obj\Debug\LibForLab6.csproj.CoreCompileInputs.cache
+E:\Практика\Лабы\Lab6\LibForLab6\obj\Debug\LibForLab6.dll
+E:\Практика\Лабы\Lab6\LibForLab6\obj\Debug\LibForLab6.pdb
