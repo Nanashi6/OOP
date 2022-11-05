@@ -4,3 +4,9 @@ E:\Практика\Лабы\Lab6\LibForLab6\obj\Debug\LibForLab6.csproj.Assembl
 E:\Практика\Лабы\Lab6\LibForLab6\obj\Debug\LibForLab6.csproj.CoreCompileInputs.cache
 E:\Практика\Лабы\Lab6\LibForLab6\obj\Debug\LibForLab6.dll
 E:\Практика\Лабы\Lab6\LibForLab6\obj\Debug\LibForLab6.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\LibForLab6\bin\Debug\LibForLab6.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\LibForLab6\bin\Debug\LibForLab6.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\LibForLab6\obj\Debug\LibForLab6.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\LibForLab6\obj\Debug\LibForLab6.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\LibForLab6\obj\Debug\LibForLab6.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\LibForLab6\obj\Debug\LibForLab6.pdb

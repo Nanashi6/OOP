@@ -16,3 +16,21 @@ E:\Практика\Лабы\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
 E:\Практика\Лабы\Lab6\Lab6\obj\Debug\Lab6.changeTicket.resources
 E:\Практика\Лабы\Lab6\Lab6\obj\Debug\Lab6.deleteTicket.resources
 E:\Практика\Лабы\Lab6\Lab6\obj\Debug\Lab6.List.resources
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\bin\Debug\Lab6.exe.config
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\bin\Debug\Lab6.exe
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\bin\Debug\Lab6.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\bin\Debug\LibForLab6.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\bin\Debug\LibForLab6.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.changeTicket.resources
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.deleteTicket.resources
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.index.resources
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.List.resources
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.payTicket.resources
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.exe
+E:\2 Курс\ООПиП\Лабораторная №1\Lab6\Lab6\obj\Debug\Lab6.pdb

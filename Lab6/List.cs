@@ -57,7 +57,14 @@ namespace Lab6
 
             textBox.Items.Clear();
 
-            textBox.Items.Add("Минимальное кол-во билетов продано на дату - " + Performance.GetMinSales(firstDate, lastDate));
+            DateTime date = Performance.GetMinSales(firstDate, lastDate);
+
+            textBox.Items.Add("Минимальное кол-во билетов продано на дату - " + date.ToString());
+        }
+
+        private void List_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

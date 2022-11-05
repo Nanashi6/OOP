@@ -122,6 +122,7 @@
             this.Controls.Add(this.ListButton);
             this.Name = "List";
             this.Text = "List";
+            this.Load += new System.EventHandler(this.List_Load);
             this.ResumeLayout(false);
 
         }

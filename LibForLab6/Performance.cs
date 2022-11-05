@@ -3,24 +3,6 @@ using System.Collections.Generic;
 
 namespace LibForLab6
 {
-    public enum Place
-    {
-        Parterre,
-        Balcony,
-        Loggia
-    }
-    public struct Ticket
-    {
-        public DateTime date;
-        public Place place;
-
-        public Ticket(DateTime date, Place place)
-        {
-            this.date = date;
-            this.place = place;
-        }
-
-    }
     public class Performance
     {
         private static List<Ticket> tickets = new List<Ticket>();
@@ -143,12 +125,15 @@ namespace LibForLab6
         {
             DateTime minSalesDate = firstDate;
             int amountOfTicket = SalesTickets(firstDate);
+            int colTicket;
 
-            for (DateTime day = firstDate.AddDays(1); day < lastDate; day.AddDays(1))
+            for (DateTime day = firstDate.AddDays(1); day.Ticks <= lastDate.Ticks; day = day.AddDays(1))
             {
-                if (amountOfTicket < SalesTickets(day))
+                colTicket = SalesTickets(day);
+
+                if (colTicket < amountOfTicket)
                 {
-                    amountOfTicket = SalesTickets(day);
+                    amountOfTicket = colTicket;
                     minSalesDate = day;
                 }
             }
