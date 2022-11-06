@@ -23,7 +23,7 @@ namespace Lab6
             DateTime date = Convert.ToDateTime(dateTimePicker1.Value.ToShortDateString());
             int ticketCount = Convert.ToInt32(TicketColBox.Text);
 
-            LibForLab6.Place place;
+            Place place;
             if (parerreRadioButton.Checked)
             {
                 place = Place.Parterre;
@@ -37,7 +37,7 @@ namespace Lab6
                 place = Place.Loggia;
             }
 
-            Performance.RemoveTicket(date, ticketCount, place);
+            Program.performance.RemoveTicket(date, ticketCount, place);
 
             Close();
         }

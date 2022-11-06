@@ -13,7 +13,7 @@ namespace LibForLab6
         /// <param name="date">Дата представления</param>
         /// <param name="ticketCount">Кол-во билетов</param>
         /// <param name="place">Тип места</param>
-        public static void CreateTicket(DateTime date, int ticketCount, Place place)
+        public void CreateTicket(DateTime date, int ticketCount, Place place)
         {
             Ticket ticket = new Ticket(date, place);
             for (int i = 0; i < ticketCount; i++)
@@ -28,7 +28,7 @@ namespace LibForLab6
         /// <param name="date">Дата представления</param>
         /// <param name="ticketCount">Кол-во билетов</param>
         /// <param name="place">Тип места</param>
-        public static void RemoveTicket(DateTime date, int ticketCount, Place place)
+        public void RemoveTicket(DateTime date, int ticketCount, Place place)
         {
             Ticket ticket = new Ticket(date, place);
             for (int i = 0; i < ticketCount; i++)
@@ -45,7 +45,7 @@ namespace LibForLab6
         /// <param name="place">Старое место</param>
         /// <param name="newDate">Новая дата</param>
         /// <param name="newPlace">Новое место</param>
-        public static void ChangeTicket(DateTime date, int ticketCount, Place place, DateTime newDate, Place newPlace)
+        public void ChangeTicket(DateTime date, int ticketCount, Place place, DateTime newDate, Place newPlace)
         {
             RemoveTicket(date, ticketCount, place);
             CreateTicket(newDate, ticketCount, newPlace);
@@ -65,7 +65,7 @@ namespace LibForLab6
         /// </summary>
         /// <param name="dateNew">Заданная дата</param>
         /// <returns>int</returns>
-        public static int SalesTickets(DateTime date)
+        public int SalesTickets(DateTime date)
         {
             int amountOfTicket = 0;
 
@@ -86,7 +86,7 @@ namespace LibForLab6
         /// <param name="date">Начало периода</param>
         /// <param name="date1">Конец периода</param>
         /// <returns>int, int, int</returns>
-        public static void GetAverageSales(DateTime firstDate, DateTime lastDate, out double colParterre, out double colLoggia, out double colBalcony)
+        public void GetAverageSales(DateTime firstDate, DateTime lastDate, out double colParterre, out double colLoggia, out double colBalcony)
         {
             int colDays = (lastDate - firstDate).Days + 1;
             colParterre = colLoggia = colBalcony = 0;
@@ -121,7 +121,7 @@ namespace LibForLab6
         /// <param name="date">Начало периода</param>
         /// <param name="date1">Конец периода</param>
         /// <returns>DateTime</returns>
-        public static DateTime GetMinSales(DateTime firstDate, DateTime lastDate)
+        public DateTime GetMinSales(DateTime firstDate, DateTime lastDate)
         {
             DateTime minSalesDate = firstDate;
             int amountOfTicket = SalesTickets(firstDate);

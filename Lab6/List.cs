@@ -33,7 +33,7 @@ namespace Lab6
 
             textBox.Items.Clear();
 
-            textBox.Items.Add("Билетов на " + date + " - " + Performance.SalesTickets(date));
+            textBox.Items.Add("Билетов на " + date + " - " + Program.performance.SalesTickets(date));
         }
 
         private void AverageTicketButton_Click(object sender, EventArgs e)
@@ -45,7 +45,7 @@ namespace Lab6
 
             textBox.Items.Clear();
 
-            Performance.GetAverageSales(firstDate, lastDate, out colParterre, out colLoggia, out colBalcony);
+            Program.performance.GetAverageSales(firstDate, lastDate, out colParterre, out colLoggia, out colBalcony);
 
             textBox.Items.Add("Среднее число билетов в партер - " + colParterre + ", лоджию - " + colLoggia + ", балкон - " + colBalcony);
         }
@@ -57,7 +57,7 @@ namespace Lab6
 
             textBox.Items.Clear();
 
-            DateTime date = Performance.GetMinSales(firstDate, lastDate);
+            DateTime date = Program.performance.GetMinSales(firstDate, lastDate);
 
             textBox.Items.Add("Минимальное кол-во билетов продано на дату - " + date.ToString());
         }

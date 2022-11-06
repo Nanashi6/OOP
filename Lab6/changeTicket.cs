@@ -24,7 +24,7 @@ namespace Lab6
             DateTime lastDate = Convert.ToDateTime(dateTimePicker2.Value.ToShortDateString());
             int ticketCount = Convert.ToInt32(TicketColBox.Text);
 
-            LibForLab6.Place place;
+            Place place;
             if (parerreRadioButton.Checked)
             {
                 place = Place.Parterre;
@@ -38,7 +38,7 @@ namespace Lab6
                 place = Place.Loggia;
             }
 
-            LibForLab6.Place newPlace;
+            Place newPlace;
             if (newParerreRadioButton.Checked)
             {
                 newPlace = Place.Parterre;
@@ -52,7 +52,7 @@ namespace Lab6
                 newPlace = Place.Loggia;
             }
 
-            Performance.ChangeTicket(firstDate, ticketCount, place, lastDate, newPlace);
+            Program.performance.ChangeTicket(firstDate, ticketCount, place, lastDate, newPlace);
 
             Close();
         }

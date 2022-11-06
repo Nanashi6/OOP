@@ -9,6 +9,7 @@ namespace Lab6
 {
     public static class Program
     {
+        public static Performance performance = new Performance();
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
