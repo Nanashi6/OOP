@@ -1,0 +1,14 @@
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\bin\Debug\MainForm.exe.config
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\bin\Debug\MainForm.exe
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\bin\Debug\MainForm.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\bin\Debug\TransportLibrary.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\bin\Debug\TransportLibrary.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\obj\Debug\MainForm.csproj.SuggestedBindingRedirects.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\obj\Debug\MainForm.MainForm.resources
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\obj\Debug\MainForm.csproj.CopyComplete
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\obj\Debug\MainForm.exe
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\MainForm\obj\Debug\MainForm.pdb

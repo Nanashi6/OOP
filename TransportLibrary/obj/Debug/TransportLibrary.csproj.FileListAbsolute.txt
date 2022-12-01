@@ -1,0 +1,6 @@
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\TransportLibrary\bin\Debug\TransportLibrary.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\TransportLibrary\bin\Debug\TransportLibrary.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\TransportLibrary\obj\Debug\TransportLibrary.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\TransportLibrary\obj\Debug\TransportLibrary.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\TransportLibrary\obj\Debug\TransportLibrary.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab8\TransportLibrary\obj\Debug\TransportLibrary.pdb
