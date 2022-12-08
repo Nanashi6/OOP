@@ -1,0 +1,9 @@
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorLibrary\bin\Debug\VectorLibrary.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorLibrary\bin\Debug\VectorLibrary.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorLibrary\bin\Debug\VectorException.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorLibrary\bin\Debug\VectorException.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorLibrary\obj\Debug\VectorLibrary.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorLibrary\obj\Debug\VectorLibrary.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorLibrary\obj\Debug\VectorLibrary.csproj.CopyComplete
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorLibrary\obj\Debug\VectorLibrary.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorLibrary\obj\Debug\VectorLibrary.pdb

@@ -1,0 +1,6 @@
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorException\bin\Debug\VectorException.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorException\bin\Debug\VectorException.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorException\obj\Debug\VectorException.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorException\obj\Debug\VectorException.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorException\obj\Debug\VectorException.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab9\VectorException\obj\Debug\VectorException.pdb
