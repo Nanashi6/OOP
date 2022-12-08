@@ -1,0 +1,25 @@
+﻿<Page x:Class="FlatsOrders.OrdersList"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FlatsOrders"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="OrdersList">
+
+    <Grid Width="653" Loaded="Page_Loaded">
+        <Label Content="Фильтр" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="FiltersComboBox" HorizontalAlignment="Left" Margin="65,7,0,0" VerticalAlignment="Top" Width="120" LostFocus="FiltersComboBox_LostFocus"/>
+        <ComboBox x:Name="OrdersComboBox" HorizontalAlignment="Left" Margin="503,9,0,0" VerticalAlignment="Top" Width="120" LostFocus="OrdersComboBox_LostFocus"/>
+        <Label Content="Выберите ордер" HorizontalAlignment="Left" Margin="366,5,0,0" VerticalAlignment="Top"/>
+        <Label Content="Название ордера:" HorizontalAlignment="Left" Margin="40,63,0,0" VerticalAlignment="Top"/>
+        <Label Content="Кол-во комнат:" HorizontalAlignment="Left" Margin="40,89,0,0" VerticalAlignment="Top"/>
+        <Label Content="Средняя стоимость кв.м.:" HorizontalAlignment="Left" Margin="40,120,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="NameLabel" Content="" HorizontalAlignment="Left" Margin="220,63,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="AmountOfRoomsLabel" Content="" HorizontalAlignment="Left" Margin="220,89,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="AveragePriceLabel" Content="" HorizontalAlignment="Left" Margin="220,120,0,0" VerticalAlignment="Top"/>
+        <Label Content="Плита:" HorizontalAlignment="Left" Margin="40,151,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="CookerLabel" Content="" HorizontalAlignment="Left" Margin="220,151,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Page>

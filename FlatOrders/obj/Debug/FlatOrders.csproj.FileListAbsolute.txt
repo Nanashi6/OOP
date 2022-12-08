@@ -1,0 +1,6 @@
+E:\2 Курс\ООПиП\Лабораторная №1\Lab7\FlatOrders\bin\Debug\FlatOrders.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab7\FlatOrders\bin\Debug\FlatOrders.pdb
+E:\2 Курс\ООПиП\Лабораторная №1\Lab7\FlatOrders\obj\Debug\FlatOrders.csproj.AssemblyReference.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab7\FlatOrders\obj\Debug\FlatOrders.csproj.CoreCompileInputs.cache
+E:\2 Курс\ООПиП\Лабораторная №1\Lab7\FlatOrders\obj\Debug\FlatOrders.dll
+E:\2 Курс\ООПиП\Лабораторная №1\Lab7\FlatOrders\obj\Debug\FlatOrders.pdb

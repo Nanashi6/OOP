@@ -1,0 +1,52 @@
+﻿<Page x:Class="FlatsOrders.AddFlat"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FlatsOrders"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddFlat">
+
+    <Grid Width="653">
+        <Label Content="Общие сведения о квартире" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="35" Width="309" FontSize="22"/>
+        <Label Content="Кол-во комнат:" HorizontalAlignment="Left" Margin="23,94,0,0" VerticalAlignment="Top" FontSize="14" Height="31" Width="150"/>
+        <Label Content="Этаж:" HorizontalAlignment="Left" Margin="23,127,0,0" VerticalAlignment="Top" FontSize="14" Height="31" Width="63"/>
+        <Label Content="Стиральная машина:" HorizontalAlignment="Left" Margin="23,166,0,0" VerticalAlignment="Top" FontSize="14" Height="29" Width="199"/>
+        <TextBox x:Name="OrderNameTextBox" HorizontalAlignment="Left" Margin="172,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="166" Height="24"/>
+        <TextBox x:Name="FloorTextBox" HorizontalAlignment="Left" Margin="172,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="166" Height="24"/>
+        <RadioButton x:Name="RadioTrue" Content="Есть" HorizontalAlignment="Left" Margin="172,174,0,0" VerticalAlignment="Top" GroupName="WashMashine" IsChecked="True" Height="20" Width="57" RenderTransformOrigin="-2.132,-0.05"/>
+        <RadioButton x:Name="RadioFalse" Content="Нет" HorizontalAlignment="Left" Margin="234,175,0,0" VerticalAlignment="Top" GroupName="WashMashine" Height="20" Width="53"/>
+        <Label Content="Название ордера:" HorizontalAlignment="Left" Margin="23,61,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <TextBox x:Name="AmounOfRoomTextBox" HorizontalAlignment="Left" Margin="172,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="166" Height="24" LostFocus="AmounOfRoomTextBox_LostFocus"/>
+        <Button x:Name="CreateOrderButton" Content="Создать ордер" HorizontalAlignment="Center" Margin="0,377,0,0" VerticalAlignment="Top" Height="32" Width="84" Click="CreateOrderButton_Click"/>
+        <Button x:Name="NextRoomButton" Content="Следующая комната" HorizontalAlignment="Left" Margin="428,254,0,0" VerticalAlignment="Top" Height="67" Width="113" Visibility="Hidden" Click="NextRoomButton_Click"/>
+        <Label Content="Высота потолков:" HorizontalAlignment="Left" Margin="366,63,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="HeightTextBox" HorizontalAlignment="Left" Margin="491,67,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+
+        <Grid x:Name="RoomGrid" Height="202.3" Margin="23,207,393,41" Visibility="Hidden">
+            <Label Content="Настройки комнаты" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold"/>
+            <Label Content="Площадь:" HorizontalAlignment="Left" Margin="0,31,0,0" VerticalAlignment="Top"/>
+            <Label Content="Кол-во окон:" HorizontalAlignment="Left" Margin="0,62,0,0" VerticalAlignment="Top"/>
+            <Label Content="Наличие мебели" HorizontalAlignment="Left" Margin="0,91,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="RoomAreaTextBox" HorizontalAlignment="Left" Margin="111,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="AmountOfWindowTextBox" HorizontalAlignment="Left" Margin="111,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <RadioButton x:Name="FurnitureTrue" Content="Есть" HorizontalAlignment="Left" Margin="111,101,0,0" VerticalAlignment="Top" GroupName="furniture" IsChecked="True"/>
+            <RadioButton Content="Нет" HorizontalAlignment="Left" Margin="171,101,0,0" VerticalAlignment="Top" GroupName="furniture" IsChecked="True"/>
+
+        </Grid>
+
+        <Grid x:Name="KitchenGrid" Height="202.3" Margin="23,207,347,41" Visibility="Hidden">
+            <Label Content="Настройки кухни" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold"/>
+            <Label Content="Площадь:" HorizontalAlignment="Left" Margin="0,31,0,0" VerticalAlignment="Top"/>
+            <Label Content="Кол-во окон:" HorizontalAlignment="Left" Margin="0,62,0,0" VerticalAlignment="Top"/>
+            <Label Content="Тип плиты" HorizontalAlignment="Left" Margin="0,101,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="KitchenareaTextBox" HorizontalAlignment="Left" Margin="111,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="AmountOfWindowKitchenTExtBox" HorizontalAlignment="Left" Margin="111,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <RadioButton x:Name="RadioGas" Content="Газ" HorizontalAlignment="Left" Margin="111,107,0,0" VerticalAlignment="Top" GroupName="furniture" IsChecked="True"/>
+            <RadioButton Content="Электрическая" HorizontalAlignment="Left" Margin="171,106,0,0" VerticalAlignment="Top" GroupName="furniture" IsChecked="True"/>
+
+        </Grid>
+    </Grid>
+</Page>
